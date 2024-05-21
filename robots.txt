@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://vpsranks.github.io/rss.xml
